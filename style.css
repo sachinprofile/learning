@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    
+}
+.images {
+    width: 100%;
+    max-width: 600px;
+}
+.copyright{
+    text-align: center;
+}
